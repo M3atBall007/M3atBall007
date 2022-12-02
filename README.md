@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning python
+I'm looking for help with python
+AMA
+How to reach me:m3atball007@gmail.com
+Fun Fact: I suck at this shit!
