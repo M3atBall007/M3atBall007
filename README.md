@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 ### About Me :🇺🇸:
 
-** ~ I'm currently learning: 
+**I'm currently learning: 
 
-python
+  python
 
-** I'm looking for help with:
+**I'm looking for help with:
 
-python
+  python
 
-** AMA
+**AMA
 
-** How to reach me: 
+**How to reach me: 
 
-m3atball007@gmail.com
+  m3atball007@gmail.com
 
-** Fun Fact: 
+**Fun Fact: 
 
-I suck at this shit!
+  I suck at this shit!
